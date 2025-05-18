@@ -1,6 +1,3 @@
-Perfect! Based on your GitHub repo and project structure at [MADemiral/Metro-Failure-Detection](https://github.com/MADemiral/Metro-Failure-Detection/tree/main/train_finetune), here's a clear, professional, and informative `README.md` you can use:
-
----
 
 # Metro Failure Detection – Fine-Tuning and Training
 
