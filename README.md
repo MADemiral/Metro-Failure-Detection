@@ -46,6 +46,16 @@ This subdirectory (`train_finetune/`) includes scripts and models for training, 
 
 ---
 
+## 🛠 Dependencies
+
+Install the required libraries:
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
 ## 🚀 How to Run
 
 ### 1. Train Analog Model (One-Class SVM)
@@ -70,15 +80,6 @@ You can look to:
 
 ---
 
-## 🛠 Dependencies
-
-Install the required libraries:
-
-```bash
-pip install -r requirements.txt
-```
-
----
 
 ## 📊 Explainability (Optional)
 
