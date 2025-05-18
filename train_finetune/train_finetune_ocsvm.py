@@ -8,8 +8,8 @@ from train.preprocess import DataPreprocessor
 import os
 
 def train_and_finetune_ocsvm(preprocessor: DataPreprocessor, model_path="models/ocsvm_analog.pkl"):
-    os.makedirs("../models", exist_ok=True)
-    os.makedirs("../ocsvm", exist_ok=True)
+    os.makedirs("models", exist_ok=True)
+    os.makedirs("ocsvm", exist_ok=True)
 
     # Get preprocessed data
     analog_train = preprocessor.analog_train

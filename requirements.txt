@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+tensorflow>=2.11.0
+keras>=2.11.0
+shap
+lime
